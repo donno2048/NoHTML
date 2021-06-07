@@ -6,4 +6,4 @@ for rule in chain(app.url_rule_class("/|", endpoint='/|').get_rules(app.url_map)
     app.url_map._rules.append(rule)
     app.url_map._rules_by_endpoint.setdefault(rule.endpoint, []).append(rule)
 app.view_functions = {'/' : lambda: Response(headers={"link":"<|>;rel=stylesheet;"}), '/|': lambda: "body{background-image:url(\"%s\");background-repeat:no-repeat;}" % url}
-app.run()
+if __name__ == "__main__": app.run()
