@@ -12,10 +12,10 @@ yeah, you read it right, this website has no HTML but can render HTML.
 
 If you right-click on the website and choose `View page source` you will see nothing, even though anything in _index.html_ will be displayed on the page.
 
-## Install Flask
+## Install dflask
 
 ```sh
-pip3 install Flask==2.0.1
+pip3 install dflask==1.0.0
 ```
 
 ## Run
