@@ -4,13 +4,11 @@
 - Only supports Firefox
 ```
 
-[Demo](https://nohtmlatall.herokuapp.com/)
+[Demo](https://no-html-octocat.herokuapp.com/)
 
-This is a website with absolutely no HTML source which can render HTML,
+This is a website with absolutely no HTML source which can render an octocat.
 
-yeah, you read it right, this website has no HTML but can render HTML.
-
-If you right-click on the website and choose `View page source` you will see nothing, even though anything in _index.html_ will be displayed on the page.
+If you right-click on the website and choose `View page source` you will see nothing.
 
 ## Install dflask
 
