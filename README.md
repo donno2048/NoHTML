@@ -6,7 +6,7 @@
 
 [Demo](https://nohtmlatall.herokuapp.com/)
 
-This is a website with absolutely no HTML source which can render HTML,
+This is a website with absolutely no HTML source which can render HTML (and images, using box-shadowing as shown in [the :octocat: branch](https://github.com/donno2048/NoHTML/tree/octocat)),
 
 yeah, you read it right, this website has no HTML but can render HTML.
 
