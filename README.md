@@ -1,8 +1,7 @@
 # NoHTML
 
-```diff
-- Only supports Firefox
-```
+> **Warning**
+> Only supports Firefox
 
 [Demo](https://nohtmlatall.herokuapp.com/)
 
